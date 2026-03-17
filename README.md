@@ -1,4 +1,4 @@
-# Week 2 - HTML + CSS + Bootstrap Portfolio
+HTML + CSS + Bootstrap Portfolio
 
 ## Live Demo
 
